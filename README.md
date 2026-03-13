@@ -25,7 +25,7 @@ The analysis shows the cumulative returns for low and high beta portfolios, alon
 
 ## Files
 
-- `증권분석_ver2.ipynb`: Jupyter notebook containing the full analysis.
+- `vix_trading_strategy.ipynb`: Jupyter notebook containing the full analysis.
 - `daily_sp500_panel.parquet`: Daily stock data.
 - `ff3_monthly.parquet`: Fama-French 3-factor data.
 - `Group1_FP_report.pdf`: Detailed project report.
