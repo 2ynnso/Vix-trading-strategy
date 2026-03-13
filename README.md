@@ -46,3 +46,6 @@ The analysis shows the cumulative returns for low and high beta portfolios, alon
 ## Author
 
 [Your Name] - Demonstrating expertise in quantitative finance, data processing, and strategy development.
+# vix-trading-strategy
+A VIX-based quantitative trading strategy portfolio demonstrating expertise in data collection, preprocessing, and strategic analysis using Python and financial data. Includes backtesting with cumulative returns visualization and FF3 alpha verification.
+>>>>>>> origin/main
